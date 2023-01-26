@@ -10,4 +10,25 @@ verschillende taken en cyclussen aanmaken die dan kunnen worden geselecteerd uit
 instellen van een cyclus kan handmatig gebeuren via het display, of via code.De volledige constructie van de
 robot zal worden uitgewerkt met de 3D-printer,
 
-Opgave:
+
+Verplichte onderdelen rapport:
+
+Kaft (voorblad)                                                                                              (gebruik de recentste logo's)
+Abstract (in het Engels en informatief)
+Inhoudsopgave                                                                                             
+Codefragmentenlijst                                                                                           
+Figurenlijst
+Tabellenlijst
+Afkortingenlijst
+Inleiding                                                                                                        
+1 Hoofdstuktitel                                                                                             
+2 ...                                                                                                                 
+3 ...
+4 ...                                                                       
+Conclusie
+Handleiding   (enkel verplicht indien laboproeven moeten geschreven worden, dan horen ze hier / indien het project in gebruik genomen zal worden, schrijf dan een handleiding)
+Literatuurlijst
+Bijlagenoverzicht  (opmaak zoals inhoudsopgave)
+Bijlage 1: Kopieën datasheets
+Bijlage 2: Vergaderverslagen
+Bijlage 3:  Logboek rapporteren 
